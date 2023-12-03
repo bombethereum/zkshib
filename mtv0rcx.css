@@ -1,0 +1,126 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * paralucent:
+ *   - http://typekit.com/eulas/00000000000000007735f0d5
+ *   - http://typekit.com/eulas/00000000000000007735f0cb
+ *   - http://typekit.com/eulas/00000000000000007735f0d4
+ *   - http://typekit.com/eulas/00000000000000007735f0ca
+ *   - http://typekit.com/eulas/00000000000000007735f0d2
+ * paralucent-condensed:
+ *   - http://typekit.com/eulas/00000000000000007735b47a
+ *   - http://typekit.com/eulas/00000000000000007735b47f
+ *   - http://typekit.com/eulas/00000000000000007735b491
+ *   - http://typekit.com/eulas/00000000000000007735b4a4
+ * paralucent-stencil:
+ *   - http://typekit.com/eulas/00000000000000007735b470
+ *   - http://typekit.com/eulas/00000000000000007735b474
+ * paralucent-text:
+ *   - http://typekit.com/eulas/00000000000000007735b46a
+ *   - http://typekit.com/eulas/00000000000000007735b475
+ *   - http://typekit.com/eulas/00000000000000007735b477
+ *   - http://typekit.com/eulas/00000000000000007735b480
+ *
+ * Â© 2009-2023 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2023-05-31 14:40:47 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"paralucent";
+src:url("l-1") format("woff2"),url("d-4") format("woff"),url("a-1") format("opentype");
+font-display:auto;font-style:italic;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent";
+src:url("l") format("woff2"),url("d-1") format("woff"),url("a-2") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent";
+src:url("l-4") format("woff2"),url("d-2") format("woff"),url("a-4") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent";
+src:url("l-2") format("woff2"),url("d") format("woff"),url("a-3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent";
+src:url("l-3") format("woff2"),url("d-3") format("woff"),url("a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent-stencil";
+src:url("") format("woff2"),url("") format("woff"),url("") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent-stencil";
+src:url("") format("woff2"),url("") format("woff"),url("") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent-text";
+src:url("") format("woff2"),url("") format("woff"),url("") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent-text";
+src:url("") format("woff2"),url("") format("woff"),url("") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent-text";
+src:url("") format("woff2"),url("") format("woff"),url("") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent-text";
+src:url("") format("woff2"),url("") format("woff"),url("") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent-condensed";
+src:url("") format("woff2"),url("") format("woff"),url("") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent-condensed";
+src:url("") format("woff2"),url("") format("woff"),url("") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent-condensed";
+src:url("") format("woff2"),url("") format("woff"),url("") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent-condensed";
+src:url("") format("woff2"),url("") format("woff"),url("") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+.tk-paralucent { font-family: "paralucent",sans-serif; }
+.tk-paralucent-stencil { font-family: "paralucent-stencil",sans-serif; }
+.tk-paralucent-text { font-family: "paralucent-text",sans-serif; }
+.tk-paralucent-condensed { font-family: "paralucent-condensed",sans-serif; }
